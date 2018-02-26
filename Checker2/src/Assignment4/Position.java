@@ -19,4 +19,5 @@ class Position {
 	public int y() {
 		return y;
 	}
+	
 }
