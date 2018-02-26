@@ -1,3 +1,4 @@
+package Assignment4_combined;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
